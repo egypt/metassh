@@ -14,7 +14,7 @@ module MetaSSH
 	# Returns the string representation of the handler type,
 	#
 	def self.handler_type
-		return "MetaSSH"
+		return "ssh"
 	end
 
 	#
@@ -22,7 +22,7 @@ module MetaSSH
 	# 'find'.
 	#
 	def self.general_handler_type
-		"MetaSSH"
+		"ssh"
 	end
 
 	#
