@@ -26,7 +26,7 @@ class Plugin::MetaSSH < Msf::Plugin
 
 	  # Displatcher name
 		def name
-		  "metaSSH"
+		  "meta_ssh"
 		end
 
 		#Command list
